@@ -1,0 +1,15 @@
+/Users/banguyen/WorkSpace/DOTNET-Basic/BT-W1/Ex11/bin/Debug/net6.0/Ex11
+/Users/banguyen/WorkSpace/DOTNET-Basic/BT-W1/Ex11/bin/Debug/net6.0/Ex11.deps.json
+/Users/banguyen/WorkSpace/DOTNET-Basic/BT-W1/Ex11/bin/Debug/net6.0/Ex11.runtimeconfig.json
+/Users/banguyen/WorkSpace/DOTNET-Basic/BT-W1/Ex11/bin/Debug/net6.0/Ex11.dll
+/Users/banguyen/WorkSpace/DOTNET-Basic/BT-W1/Ex11/bin/Debug/net6.0/Ex11.pdb
+/Users/banguyen/WorkSpace/DOTNET-Basic/BT-W1/Ex11/obj/Debug/net6.0/Ex11.csproj.AssemblyReference.cache
+/Users/banguyen/WorkSpace/DOTNET-Basic/BT-W1/Ex11/obj/Debug/net6.0/Ex11.GeneratedMSBuildEditorConfig.editorconfig
+/Users/banguyen/WorkSpace/DOTNET-Basic/BT-W1/Ex11/obj/Debug/net6.0/Ex11.AssemblyInfoInputs.cache
+/Users/banguyen/WorkSpace/DOTNET-Basic/BT-W1/Ex11/obj/Debug/net6.0/Ex11.AssemblyInfo.cs
+/Users/banguyen/WorkSpace/DOTNET-Basic/BT-W1/Ex11/obj/Debug/net6.0/Ex11.csproj.CoreCompileInputs.cache
+/Users/banguyen/WorkSpace/DOTNET-Basic/BT-W1/Ex11/obj/Debug/net6.0/Ex11.dll
+/Users/banguyen/WorkSpace/DOTNET-Basic/BT-W1/Ex11/obj/Debug/net6.0/refint/Ex11.dll
+/Users/banguyen/WorkSpace/DOTNET-Basic/BT-W1/Ex11/obj/Debug/net6.0/Ex11.pdb
+/Users/banguyen/WorkSpace/DOTNET-Basic/BT-W1/Ex11/obj/Debug/net6.0/Ex11.genruntimeconfig.cache
+/Users/banguyen/WorkSpace/DOTNET-Basic/BT-W1/Ex11/obj/Debug/net6.0/ref/Ex11.dll
